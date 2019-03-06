@@ -37,3 +37,9 @@
     T object;
     T * objectPtr = &object;
     
+6.  List the Python modules that you have imported in your Python experience, and what they contain. And answer this question:
+    What is the class of the ops variable? (Review Ch. 5 of the Tutorial.) And what are the other general-purpose built-in 
+    container data structures in Python?
+    
+    I have imported the math and operations modules.  The ops variable is a set.  In addition to sets, Python supports tuples,
+    sequences, and lists.  Additionally, lists can be used as the substrate for stacks and queues.
